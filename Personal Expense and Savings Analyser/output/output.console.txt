@@ -1,0 +1,27 @@
+MONTHLY FINANCIAL REPORT
+
+Month: 1
+Monthly Income: 65000.0
+Total Expenses: 44000.0
+Remaining Amount: 21000.0
+Savings Percentage: 32.30769230769231%
+Expense Percentage: 67.6923076923077%
+Expense Status: Expense within income
+Financial Category: Excellent
+Improvement Message: Excellent savings. Continue maintaining this habit.
+
+-----------------------------
+
+MONTHLY FINANCIAL REPORT
+
+Month: 2
+Monthly Income: 75000.0
+Total Expenses: 59700.0
+Remaining Amount: 15300.0
+Savings Percentage: 20.4%
+Expense Percentage: 79.60000000000001%
+Expense Status: Expense within income
+Financial Category: Good
+Improvement Message: Savings are healthy but can be improved.
+
+-----------------------------
