@@ -1,0 +1,53 @@
+Day : 1
+Problems Attempted: 7
+Problems Solved: 5
+Hours: 3.0
+Status: Productive Day
+
+Day : 2
+Problems Attempted: 6
+Problems Solved: 4
+Hours: 4.0
+Status: Non Productive Day
+
+Day : 3
+Problems Attempted: 9
+Problems Solved: 7
+Hours: 5.0
+Status: Productive Day
+
+Day : 4
+Problems Attempted: 5
+Problems Solved: 3
+Hours: 1.5
+Status: Non Productive Day
+
+Day : 5
+Problems Attempted: 6
+Problems Solved: 6
+Hours: 3.0
+Status: Productive Day
+
+Day : 6
+Problems Attempted: 8
+Problems Solved: 8
+Hours: 1.5
+Status: Non Productive Day
+
+Day : 7
+Problems Attempted: 5
+Problems Solved: 5
+Hours: 4.0
+Status: Productive Day
+
+WEEKLY CODING PRACTICE REPORT
+
+Total Problems Attempted: 46
+Total Problems Solved: 38
+Total Practice Hours: 22.0
+Success Percentage: 82.6086956521739%
+Average Problems Solved Per Day: 5.428571428571429
+Productive Days: 4
+Non-Productive Days: 3
+Weekly Target: Achieved
+Consistency Status: Good
