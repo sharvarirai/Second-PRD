@@ -1,12 +1,26 @@
- System.out.println("MOCK TEST ATTEMPT REPORT");
-        System.out.println();
+Attempt: 1
+Score: 50
+Correct Answers: 50
+Incorrect Answers: 50
+Result: failed
+Remaining Attempts: 2
 
-        System.out.println("Best Score: " + bestScore);
+Attempt: 2
+Score: 59
+Correct Answers: 59
+Incorrect Answers: 41
+Result: failed
+Remaining Attempts: 1
 
-        if (passed) {
-            System.out.println("Final Result: MOCK TEST CLEARED");
-            System.out.println("Recommendation: Continue practising to improve your score.");
-        } else {
-            System.out.println("Final Result: MOCK TEST NOT CLEARED");
-            System.out.println("Recommendation: Revise weak areas and attempt more practice tests.");
-        }
+Attempt: 3
+Score: 78
+Correct Answers: 78
+Incorrect Answers: 22
+Result: passed
+Remaining Attempts: 0
+
+MOCK TEST ATTEMPT REPORT
+
+Best Score: 78
+Final Result: MOCK TEST NOT CLEARED
+Recommendation: Revise weak areas and attempt more practice tests.
