@@ -1,0 +1,12 @@
+ System.out.println("MOCK TEST ATTEMPT REPORT");
+        System.out.println();
+
+        System.out.println("Best Score: " + bestScore);
+
+        if (passed) {
+            System.out.println("Final Result: MOCK TEST CLEARED");
+            System.out.println("Recommendation: Continue practising to improve your score.");
+        } else {
+            System.out.println("Final Result: MOCK TEST NOT CLEARED");
+            System.out.println("Recommendation: Revise weak areas and attempt more practice tests.");
+        }
