@@ -1,0 +1,13 @@
+STUDENT MARKS REPORT
+
+Student Name: Nihal
+Total Marks: 415
+Average Marks: 83.0
+Percentage: 83.0%
+
+Passed Subjects: 5
+Failed Subjects: 0
+
+Overall Result: PASS
+Grade: A
+Next-Level Eligibility: Eligible
