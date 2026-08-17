@@ -1,0 +1,11 @@
+ATTENDANCE REPORT
+
+Total Working Days: 10
+Present Days: 8
+Absent Days: 2
+Attendance Percentage: 80.0%
+
+Required Attendance: 75.0%
+Eligibility Status: ELIGIBLE
+Invalid Attendance Entries: 0
+Consistency Status: Good Attendance
