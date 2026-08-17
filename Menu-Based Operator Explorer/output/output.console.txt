@@ -1,0 +1,14 @@
+Selected Operation: Addition
+Result: 20
+
+Selected Operation: Increment First Number
+Updated First Number: 16
+
+Selected Operation: Compare Numbers
+Result: First number is greater.
+
+Selected Operation: Change Sign
+Updated First Number: -16
+
+Selected Operation: Exit
+Operator Explorer Closed.
